@@ -3,7 +3,7 @@
 ![logo](https://github.com/Dineshrestha/Dineshrestha/blob/main/Dineshrestha.png)
 
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I work at the USGS EROS Center as a Remote Sensing Scientist.  <br>🌱 I’m currently learning more about Artificial Intelligence and Machine Learning.<br>👯 I’m looking to collaborate on LinkedIn and GitHub. <br>🤔 I publish new articles related to ML-AI in Remote Sensing on LinkedIn daily. <br>💬 Ask me about Geospatial Data Analysis, Remote Sensing, and Machine Learning<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: Remote Sensing is my profession and Coding is my HOBBY!!!
+😄 Pronouns: He/His<br>🔭 I work at the Eocene Environmental Group, Inc as a GIS Specialist II.  <br>🌱 I’m currently learning more about Artificial Intelligence and Machine Learning.<br>👯 I’m looking to collaborate on LinkedIn and GitHub. <br>🤔 I publish new articles related to ML-AI in GIS and Remote Sensing on LinkedIn daily. <br>💬 Ask me about Geospatial Data Analysis, Remote Sensing, and Machine Learning<br>📫 How to reach me: Check the social links below.<br>⚡ Fun fact: Remote Sensing is my profession and Coding is my HOBBY!!!
 
 
 ## 🌐 Socials:
